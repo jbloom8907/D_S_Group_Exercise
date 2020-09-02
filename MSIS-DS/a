@@ -1,0 +1,24 @@
+
+
+Clone
+checkout
+
+two-phase commit
+
+push
+pull
+
+fork
+branch
+-one per feature or dev
+
+merg to master....merge back to the branch
+
+1. make a branch
+2. if someone else merges to master, you may need to merge master into your branch
+3. 
+
+
+Two ways to make a new repo
+1. Start on the server, and clone it local
+2. Start local, than push it to a (new) remote
